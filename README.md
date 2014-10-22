@@ -9,4 +9,4 @@ NAU ACM presentations (Deadline: 11/4)
 4. RDMS - Nurbek (MySQL, MongoDB)
 5. Mobile Programming - Sherzat
 6. Web programming - Baktybek 2 examples
-
+7. Python-django - Alex
